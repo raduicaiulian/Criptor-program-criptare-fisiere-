@@ -9,3 +9,5 @@ Acest program criptează un fișier, ce se află în locația curentă, incremen
 
 Se poate observa că odată criptată imaginea nu mai este recunoscută de ImageViewere, iar biții din acest fișier s-au modificat
 Decriptarea se poate face rulând încă odată executabilul de criptare cu cheia negativă
+
+!!!Acest program este în lucru, versiunea finală îsi propune să ofere posifilitatea să aplice criptarea recursiv și pentru fișierele din subdirectoare și să admită chei de criptare mai complicate(lungi,stringuri)!!!
